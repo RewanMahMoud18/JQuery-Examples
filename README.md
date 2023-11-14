@@ -22,6 +22,7 @@ To get started with these jQuery examples, follow these steps:
 2. Open the `index.html` file in your preferred web browser.
 
 3. Explore the examples and their associated code in the `examples` directory.
+
 ## Examples
 1. Header style app
 2. window app
